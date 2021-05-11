@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:chest",
+    "pools":[
+        {
+            "rolls": 1,
+            "entries":[
+                {
+                    "type":"minecraft:item",
+                    "name":"minecraft:elytra",
+                    "weight": 10
+                },
+                {
+                    "type":"minecraft:item",
+                    "name":"minecraft:leather_chestplate",
+                    "weight": 10,
+                    "functions":[
+                        {
+                            "function":"set_nbt",
+                            "tag":"{display:{Name:'[\"这是一个粉色的外套\"]',color:16758465,Lore:['{\"text\":\"应+★的要求留下的彩蛋\"}','{\"text\":\"虽然并没有什么卵用\"}}','{\"text\":\"除了打着有点痛\"}}']},Enchantments:[{id:\"minecraft:thorns\",lvl:3s}]}" 
+                        }
+                    ]  
+                } 
+           ]
+        }
+        
+    ]
+    
+}

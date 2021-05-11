@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "zxm:tools/hoe/iron",
+          "weight":28
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "zxm:tools/hoe/golden",
+          "weight":15
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "zxm:tools/hoe/diamond",
+          "weight":5
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "zxm:tools/hoe/stone",
+          "weight":32
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "zxm:tools/hoe/wooden",
+          "weight":20
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "zxm:weapons/axe/axe",
+                    "weight": 9
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "zxm:weapons/sword/sword",
+                    "weight": 9
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:shield",
+                    "weight": 9
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "zxm:weapons/bow",
+                    "weight": 9
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "zxm:weapons/crossbow",
+                    "weight": 9
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "zxm:weapons/trident",
+                    "weight": 9
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "zxm:weapons/arrow/arrow",
+                    "weight": 15
+                }
+            ]
+        }
+    ]
+}

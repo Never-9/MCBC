@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "zxm:weapons/sword/iron",
+                    "weight":28             
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "zxm:weapons/sword/golden",
+                    "weight":15                    
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "zxm:weapons/sword/diamond",
+                    "weight":5                    
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "zxm:weapons/sword/stone",
+                    "weight":32                    
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "zxm:weapons/sword/wooden",
+                    "weight":20                    
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:chest",
+    "pools":[
+        {
+            "rolls": 1,
+            "entries":[
+                {
+                    "type":"minecraft:item",
+                    "name":"minecraft:firework_rocket",
+                    "weight": 10,
+                    "functions":[
+                        {
+                            "function":"set_nbt",
+                            "tag":"{display:{Name:'{\"text\":\"不会炸的火箭\"}'}}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Fireworks:{Flight:10,Explosions:[{Type:4}]},display:{Name:'{\"text\":\"会炸的火箭\"}'}}" ,
+                            "conditions":[
+                                {
+                                    "condition":"random_chance",
+                                    "chance":0.8
+                                }
+                            ]
+                        },
+                        {
+                            "function":"minecraft:set_count",
+                            "count":{
+                                "type":"minecraft:binomial",
+                                "n":16,
+                                "p":0.3
+                            }
+                        }
+                    ]  
+                } 
+           ]
+        }
+        
+    ]
+    
+}

@@ -1,0 +1,53 @@
+{
+    "type": "minecraft:chest",
+    "pools":[
+        {
+            "rolls": 1,
+            "entries":[
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:trident",
+                    "weight": 85
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:trident",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 9,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:trident",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 19,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:trident",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 30,
+                            "treasure": true
+                        }
+                    ]
+                }     
+           ]
+        }
+        
+    ]
+    
+}

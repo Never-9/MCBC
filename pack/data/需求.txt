@@ -1,0 +1,588 @@
+1.weapons (loottable) 1
+    (1) sword (loottable) 1         10
+        1>iron  (group) 1       30
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        2>gold  (group) 1       15
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        3>diamond (group) 1     1
+            no enchant      94
+            enchant 9       3
+            enchant 19      2
+            enchant 30      1
+        4>stone (group) 1       34
+            no enchant      80
+            enchant 9       10
+            enchant 19      6
+            enchant 30      4
+        5>wood (group) 1         20
+            no enchant      70
+            enchant 9       15
+            enchant 19      10
+            enchant 30      5
+    (2) axe (loottable) 1           10
+        1>iron  (group) 1       30
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        2>gold  (group) 1       15
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        3>diamond (group) 1     1
+            no enchant      94
+            enchant 9       3
+            enchant 19      2
+            enchant 30      1
+        4>stone (group) 1       34
+            no enchant      80
+            enchant 9       10
+            enchant 19      6
+            enchant 30      4
+        5>wood (group) 1         20
+            no enchant      70
+            enchant 9       15
+            enchant 19      10
+            enchant 30      5
+    (3) shield (item) 1             10
+    (4) bow (loottable) 1           10
+        no enchant      90
+        enchant 9       5
+        enchant 19      3
+        enchant 30      2
+    (5) crossbow (loottable) 1      10
+        no enchant      90
+        enchant 9       5
+        enchant 19      3
+        enchant 30      2
+    (6) trident (loottable) 1       10
+        no enchant      85
+        enchant 9       10
+        enchant 19      3
+        enchant 30      2
+    (7) arrow (loottable) 1         10
+            count
+                n 20
+                p 0.6
+2.tools (loottable) 1               
+    (1) pickax (loottable) 1        20
+        1>iron  (loottable) 1       30
+            no enchant      80
+            enchant 9       10
+            enchant 19      6
+            enchant 30      4
+        2>gold  (loottable) 1       25
+            no enchant      80
+            enchant 9       10
+            enchant 19      6
+            enchant 30      4
+        3>diamond (loottable) 1     5
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        4>stone (loottable) 1       25
+            no enchant      70
+            enchant 9       15
+            enchant 19      10
+            enchant 30      5
+        5>wood (loottable) 1         15
+            no enchant      60
+            enchant 9       20
+            enchant 19      15
+            enchant 30      5
+    (2) shovel (loottable) 1        20
+        1>iron  (loottable) 1       30
+            no enchant      80
+            enchant 9       10
+            enchant 19      6
+            enchant 30      4
+        2>gold  (loottable) 1       25
+            no enchant      80
+            enchant 9       10
+            enchant 19      6
+            enchant 30      4
+        3>diamond (loottable) 1     5
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        4>stone (loottable) 1       25
+            no enchant      70
+            enchant 9       15
+            enchant 19      10
+            enchant 30      5
+        5>wood (loottable) 1         15
+            no enchant      60
+            enchant 9       20
+            enchant 19      15
+            enchant 30      5
+    (3) hoe (loottable) 1           20
+        1>iron  (loottable) 1       30
+            no enchant      80
+            enchant 9       10
+            enchant 19      6
+            enchant 30      4
+        2>gold  (loottable) 1       25
+            no enchant      80
+            enchant 9       10
+            enchant 19      6
+            enchant 30      4
+        3>diamond (loottable) 1     5
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        4>stone (loottable) 1       25
+            no enchant      70
+            enchant 9       15
+            enchant 19      10
+            enchant 30      5
+        5>wood (loottable) 1         15
+            no enchant      60
+            enchant 9       20
+            enchant 19      15
+            enchant 30      5
+    (4) flint and steel (item) 1    10
+    (5) shear  (item) 1             10
+    (6) fishing rod (loottable) 1   20
+        no enchant      70
+        enchant 9       15
+        enchant 19      10
+        enchant 30      5
+3.props  
+    (1) water bucket(item)      20
+    (2) lava bucket(item)       20
+    (3) bucket(item)            20
+    (4) ender_pearl(item)       20
+        count
+            n 16
+            p 0.15
+    (5) firework rocket(item)   20
+    (6) end crystal(item)       20
+    (7) totem of undying(item)  20
+    (8) fire_charge(item)       20
+    (9) name_tag(item)          20
+    (10) saddle(item)           20
+    (11) clock(item)            20
+    (12) compass(item)          20
+    (13) end_rod(item)          20
+    (14) acacia_boat(item)      20
+    (15) torch(item)            20
+        count
+            n 32
+            p 0.6
+    (16) wither_rose(item)      20
+        count
+            min 1
+            max 2
+    (17) golden_apple           5
+    (18) enchanted_golden_apple 5
+4.potion
+
+
+
+5.food
+    (1) botany
+        Wheat
+        potato
+            furnace_smelt
+        sweet_berries
+        apple
+        beetroot
+        chorus_fruit
+        melon_slice
+        carrot
+        kelp
+            furnace_smelt
+    (2) meat
+        beef
+            furnace_smelt
+        Chicken
+            furnace_smelt
+        Cod
+            furnace_smelt
+        Mutton  
+            furnace_smelt
+        Porkchop
+            furnace_smelt
+        Rabbit  
+            furnace_smelt
+        Salmon
+            furnace_smelt
+        Rotten Flesh
+    (3) finish product
+        beetroot_soup   
+        bread   
+        cookie
+        honey_bottle
+        mushroom_stew
+        Suspicious Stew
+        Pumpkin Pie
+6.blocks
+    (1) block
+        white_wool
+            count
+            n 64
+            p 0.4
+        obsidian
+            count
+            n 10
+            p 0.2
+        slime_block
+            min 1
+            max 2
+        honey_block
+            min 1
+            max 2
+        soul_sand
+            min 4
+            max 8
+        scaffolding
+            count
+            n 10
+            p 0.5
+        magma_block
+            n 10
+            p 0.2
+        bookshelf
+            count
+            n 16
+            p 0.6
+        glass
+            count
+            n 10
+            p 0.3
+    (2) tool
+        (1) anvil(item)                 
+        (3) smithing_table(item)
+        (4) crafting_table(item)
+        (5) furnace(item)
+        (6) blast_furnace(item)
+        (7) campfire(item)
+        (29) enchanting_table
+        lodestone
+    (3) prop
+        (13) tnt(item)
+            count
+            n 10
+            p 0.2
+        (21) sponge(item)   
+        (23) trapped_chest(item)
+        (26) ladder(item)
+            count
+            n 32
+            p 0.34
+        (28) cobweb
+        cake
+    (3) materials
+        pumpkin
+            min 1
+            max 4
+        oak_log
+            count
+            n 20
+            p 0.3
+        gravel
+            count
+            n 10
+            p 0.5
+        sand
+            count
+            n 10
+            p 0.5
+7.materials
+    (1) ore (loottable) 1
+        1>diamond_ore (item)        3
+            furnace_smelt
+                random_chance
+                    chance 0.5
+            set_count
+                count
+                    n 10
+                    p 0.1
+        2>iron_ore (item)           10
+            furnace_smelt
+                random_chance
+                    chance 0.5
+            set_count
+                count
+                    n 20
+                    p 0.2
+        3>golden_ore (item)         10
+            furnace_smelt
+                random_chance
+                    chance 0.5
+            set_count
+                n 20
+                p 0.2
+        4>coal_ore (item)           24
+            furnace_smelt
+                random_chance
+                    chance 0.8
+            set_count
+                n 20
+                p 0.5
+        5>lapis_ore (item)          10
+            furnace_smelt
+                random_chance
+                    chance 0.8
+            set_count
+                n 20
+                p 0.5
+        6>redstone_ore (item)       10
+            furnace_smelt
+                random_chance
+                    chance 0.8
+            set_count
+                n 20
+                p 0.5
+        7>emerald_ore (item)        5
+            furnace_smelt
+                random_chance
+                    chance 0.8
+            set_count
+                n 10
+                p 0.1
+        8>ancient_debris(item)      1
+            furnace_smelt
+                random_chance
+                    chance 0.5
+            set_count
+                n 10
+                p 0.25
+        9>iron_ingot(item)          10
+            set_count
+                n 20
+                p 0.5                 
+        10>gold_ingot(item)         10
+            set_count
+                    n 20
+                    p 0.5
+        11>nether_quartz_ore(item)  7        
+            furnace_smelt
+                random_chance
+                    chance 0.8
+            set_count
+                    n 20
+                    p 0.5
+    (2) booty (loottable) 1
+        1>string
+            count
+            n 10
+            p 0.5
+        2>bone
+            count
+            n 10
+            p 0.5
+        3>feather
+            count
+            n 10
+            p 0.5
+        4>spider_eye
+            count
+            n 10
+            p 0.2
+        5>ghast_tear
+            count
+            min 1
+            max 2
+        6>gunpowder
+            count
+            n 10
+            p 0.5
+        7>leather
+            count
+            n 20
+            p 0.4
+        8>magma_cream
+            n 10
+            p 0.2
+        9>rabbit_foot
+            n 10
+            p 0.2
+        10>rabbit_hide
+            n 20
+            p 0.4
+        11>slime_ball
+            n 10
+            p 0.5
+        12>wither_skeleton_skull
+            count 3
+        13>blaze_rod
+            n 10
+            p 0.3
+    (3) acquired (loottable) 1 
+        1>nether_wart
+            n 10
+            p 0.5
+        2>egg
+            n 10
+            p 0.5
+        3>glowstone_dust
+            n 10
+            p 0.5
+        4>pufferfish
+            n 10
+            p 0.5
+        5>flint
+            n 20
+            p 0.4
+        6>scute
+            n 10
+            p 0.5
+        7>sugar_cane
+            n 20
+            p 0.4
+        8>brown_mushroom
+            n 10
+            p 0.5
+        9>red_mushroom
+            n 10
+            p 0.5
+    (4) Products
+        1>bowl
+            min 1
+            max 3
+        2>sugar
+            n 10
+            p 0.5
+        3>blaze_powder
+            n 10
+            p 0.5
+        4>fermented_spider_eye
+            n 10
+            p 0.3
+        5>firework_star
+            n 10
+            p 0.5
+        6>stick
+            n 32
+            p 0.5
+        7>paper
+            n 20
+            p 0.4
+8.books
+    (1) book (loottable) 1       10
+        no enchant      50
+        enchant 9       25
+        enchant 19      15
+        enchant 30      10
+9.armours
+    (1) helmet (loottable) 1         
+        1>iron (loottable) 1       10
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        2>golden  (loottable) 1    15
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        3>diamond (loottable) 1     1
+            no enchant      94
+            enchant 9       3
+            enchant 19      2
+            enchant 30      1
+        4>chainmail (loottable) 1   30
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        5>leather (loottable) 1     34
+            no enchant      80
+            enchant 9       10
+            enchant 19      6
+            enchant 30      4
+        6>turtle                    10
+    (2) chestplate (loottable)
+        1>iron (loottable) 1       10
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        2>golden  (loottable) 1    15
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        3>diamond (loottable) 1    1
+            no enchant      94
+            enchant 9       3
+            enchant 19      2
+            enchant 30      1
+        4>chainmail (loottable) 1   35
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        5>leather (loottable) 1     39
+            no enchant      80
+            enchant 9       10
+            enchant 19      6
+            enchant 30      4
+    (3) leggings
+        1>iron (loottable) 1       10
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        2>golden  (loottable) 1    15
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        3>diamond (loottable) 1    1
+            no enchant      94
+            enchant 9       3
+            enchant 19      2
+            enchant 30      1
+        4>chainmail (loottable) 1   35
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        5>leather (loottable) 1     39
+            no enchant      80
+            enchant 9       10
+            enchant 19      6
+            enchant 30      4
+    (4) boots
+        1>iron (loottable) 1       10
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        2>golden  (loottable) 1    15
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        3>diamond (loottable) 1    1
+            no enchant      94
+            enchant 9       3
+            enchant 19      2
+            enchant 30      1
+        4>chainmail (loottable) 1   35
+            no enchant      90
+            enchant 9       5
+            enchant 19      3
+            enchant 30      2
+        5>leather (loottable) 1     39
+            no enchant      80
+            enchant 9       10
+            enchant 19      6
+            enchant 30      4
+
+
+10. funny_things
+pink_
+16738740

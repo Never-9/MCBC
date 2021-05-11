@@ -1,0 +1,155 @@
+{
+    "type": "minecraft:chest",
+    "pools":[
+        {
+            "rolls": {
+                "min":1.0,
+                "max":8.0
+            },
+            "entries":[
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/end_city_treasure",
+                    "weight": 10
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/abandoned_mineshaft",
+                    "weight": 30
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/buried_treasure",
+                    "weight": 20
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/desert_pyramid",
+                    "weight": 20
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/igloo_chest",
+                    "weight": 20
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/jungle_temple",
+                    "weight": 10
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/jungle_temple_dispenser",
+                    "weight": 20
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/nether_bridge",
+                    "weight": 20
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/pillager_outpost",
+                    "weight": 30
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/shipwreck_supply",
+                    "weight": 30
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/shipwreck_treasure",
+                    "weight": 30
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/simple_dungeon",
+                    "weight": 30
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/spawn_bonus_chest",
+                    "weight": 50
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/stronghold_corridor",
+                    "weight": 30
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/stronghold_crossing",
+                    "weight": 30
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/stronghold_library",
+                    "weight": 30
+                },
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/underwater_ruin_small",
+                    "weight": 30
+                }, 
+                {
+                    "type":"minecraft:loot_table",
+                    "name":"minecraft:chests/woodland_mansion",
+                    "weight": 30
+                },               
+                {
+                    "type": "minecraft:item",
+                    "name": "firework_rocket",
+                    "weight": 30
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "trident",
+                    "weight": 30
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "elytra",
+                    "weight": 10 
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "end_crystal",
+                    "weight": 40 
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "ender_pearl",
+                    "weight": 30
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "blaze_rod",
+                    "weight": 40
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "brewing_stand",
+                    "weight": 50
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "anvil",
+                    "weight": 50
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "bow",
+                    "weight": 50
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "crossbow",
+                    "weight": 50
+                }
+           ]
+        }
+        
+    ]
+    
+}

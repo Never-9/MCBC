@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "zxm:tools/pickax/iron",
+          "weight":28
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "zxm:tools/pickax/golden",
+          "weight":15
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "zxm:tools/pickax/diamond",
+          "weight":5
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "zxm:tools/pickax/stone",
+          "weight":32
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "zxm:tools/pickax/wooden",
+          "weight":20
+        }
+      ]
+    }
+  ]
+}
