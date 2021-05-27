@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:chest",
+    "pools":[
+        {
+            "rolls": {
+                "type":"minecraft:binomial",
+                "n":12,
+                "p":0.8
+            },
+            "entries":[
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "mcbc:materials/materials",
+                    "weight": 170
+                }
+           ]
+        }
+        
+    ]
+    
+}

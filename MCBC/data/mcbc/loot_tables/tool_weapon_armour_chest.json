@@ -2,23 +2,28 @@
     "type": "minecraft:chest",
     "pools":[
         {
-            "rolls": 10,
+            "rolls": {
+                "type":"minecraft:binomial",
+                "n":10,
+                "p":0.5
+            },
             "entries":[
                 {
                     "type": "minecraft:loot_table",
                     "name": "mcbc:tools/tools",
-                    "weight": 1
+                    "weight": 95
                 },
                 {
                     "type": "minecraft:loot_table",
                     "name": "mcbc:weapons/weapons",
-                    "weight": 1
-                }, 
+                    "weight": 80
+                },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "mcbc:food/food",
-                    "weight": 5 
-                } 
+                    "name": "mcbc:armours/armours",
+                    "weight": 80
+                }
+
            ]
         }
         

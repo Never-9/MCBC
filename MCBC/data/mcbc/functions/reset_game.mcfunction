@@ -6,7 +6,10 @@ worldborder set 350 0
 worldborder damage amount 2
 worldborder damage buffer 0.5
 
-function mcbc:more_chest_summon
+function mcbc:chest_summon/more_chest_summon
+function mcbc:chest_summon/prop_block_potion
+function mcbc:chest_summon/tools_weapons_armours
+function mcbc:chest_summon/materials
 
 time set 1000
 clear @a

@@ -17,12 +17,12 @@
                 {
                     "type": "minecraft:loot_table",
                     "name": "mcbc:blocks/prop/prop",
-                    "weight": 10
+                    "weight": 20
                 },
                 {
                     "type": "minecraft:loot_table",
                     "name": "mcbc:blocks/tool/tool",
-                    "weight": 10
+                    "weight": 20
                 }
             ]
         }
