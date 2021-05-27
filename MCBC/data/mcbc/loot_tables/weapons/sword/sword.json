@@ -6,27 +6,27 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/sword/iron",
+                    "name": "mcbc:weapons/sword/iron",
                     "weight":28             
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/sword/golden",
+                    "name": "mcbc:weapons/sword/golden",
                     "weight":15                    
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/sword/diamond",
+                    "name": "mcbc:weapons/sword/diamond",
                     "weight":5                    
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/sword/stone",
+                    "name": "mcbc:weapons/sword/stone",
                     "weight":32                    
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/sword/wooden",
+                    "name": "mcbc:weapons/sword/wooden",
                     "weight":20                    
                 }
             ]

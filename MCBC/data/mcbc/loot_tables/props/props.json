@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:props/rocket",
+                    "name": "mcbc:props/rocket",
                     "weight": 20
                 },
                 {

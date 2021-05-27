@@ -6,17 +6,17 @@
             "entries":[
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:tools/tools",
+                    "name": "mcbc:tools/tools",
                     "weight": 1
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/weapons",
+                    "name": "mcbc:weapons/weapons",
                     "weight": 1
                 }, 
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:food/food",
+                    "name": "mcbc:food/food",
                     "weight": 5 
                 } 
            ]

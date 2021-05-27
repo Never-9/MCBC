@@ -1,1 +1,1 @@
-function MCBC:death_check
+function mcbc:death_check

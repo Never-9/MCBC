@@ -6,22 +6,22 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:blocks/block/block",
+                    "name": "mcbc:blocks/block/block",
                     "weight": 20
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:blocks/material/material",
+                    "name": "mcbc:blocks/material/material",
                     "weight": 20
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:blocks/prop/prop",
+                    "name": "mcbc:blocks/prop/prop",
                     "weight": 10
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:blocks/tool/tool",
+                    "name": "mcbc:blocks/tool/tool",
                     "weight": 10
                 }
             ]

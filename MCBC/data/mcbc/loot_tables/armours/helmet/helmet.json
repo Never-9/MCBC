@@ -6,27 +6,27 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/helmet/iron",
+                    "name": "mcbc:armours/helmet/iron",
                     "weight":10             
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/helmet/golden",
+                    "name": "mcbc:armours/helmet/golden",
                     "weight":15                    
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/helmet/diamond",
+                    "name": "mcbc:armours/helmet/diamond",
                     "weight":1                    
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/helmet/chainmail",
+                    "name": "mcbc:armours/helmet/chainmail",
                     "weight":30                    
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/helmet/leather",
+                    "name": "mcbc:armours/helmet/leather",
                     "weight":34                    
                 },
                 {

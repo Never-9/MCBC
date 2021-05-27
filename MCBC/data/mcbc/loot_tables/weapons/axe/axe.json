@@ -6,27 +6,27 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/axe/iron",
+                    "name": "mcbc:weapons/axe/iron",
                     "weight":28             
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/axe/golden",
+                    "name": "mcbc:weapons/axe/golden",
                     "weight":15                    
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/axe/diamond",
+                    "name": "mcbc:weapons/axe/diamond",
                     "weight":5                    
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/axe/stone",
+                    "name": "mcbc:weapons/axe/stone",
                     "weight":32                    
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/axe/wooden",
+                    "name": "mcbc:weapons/axe/wooden",
                     "weight":20                    
                 }
             ]

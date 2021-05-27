@@ -6,7 +6,7 @@ worldborder set 350 0
 worldborder damage amount 2
 worldborder damage buffer 0.5
 
-function MCBC:more_chest_summon
+function mcbc:more_chest_summon
 
 time set 1000
 clear @a

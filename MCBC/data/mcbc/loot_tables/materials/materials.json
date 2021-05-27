@@ -6,22 +6,22 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:materials/ore/ore",
+                    "name": "mcbc:materials/ore/ore",
                     "weight": 15
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:materials/booty/booty",
+                    "name": "mcbc:materials/booty/booty",
                     "weight": 30
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:materials/acquired/acquired",
+                    "name": "mcbc:materials/acquired/acquired",
                     "weight": 30
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:materials/products/products",
+                    "name": "mcbc:materials/products/products",
                     "weight": 15
                 }
             ]

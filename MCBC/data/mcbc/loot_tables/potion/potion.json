@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:potion/splash/splash",
+                    "name": "mcbc:potion/splash/splash",
                     "weight": 10
                 }
             ]

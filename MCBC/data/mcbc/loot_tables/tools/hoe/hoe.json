@@ -6,27 +6,27 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/hoe/iron",
+          "name": "mcbc:tools/hoe/iron",
           "weight":28
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/hoe/golden",
+          "name": "mcbc:tools/hoe/golden",
           "weight":15
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/hoe/diamond",
+          "name": "mcbc:tools/hoe/diamond",
           "weight":5
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/hoe/stone",
+          "name": "mcbc:tools/hoe/stone",
           "weight":32
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/hoe/wooden",
+          "name": "mcbc:tools/hoe/wooden",
           "weight":20
         }
       ]

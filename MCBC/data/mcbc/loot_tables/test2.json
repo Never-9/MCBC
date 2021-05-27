@@ -6,7 +6,7 @@
             "entries":[
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:props/props",
+                    "name": "mcbc:props/props",
                     "weight": 50
                 }     
            ]

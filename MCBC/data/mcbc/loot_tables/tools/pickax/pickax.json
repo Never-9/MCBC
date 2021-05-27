@@ -6,27 +6,27 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/pickax/iron",
+          "name": "mcbc:tools/pickax/iron",
           "weight":28
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/pickax/golden",
+          "name": "mcbc:tools/pickax/golden",
           "weight":15
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/pickax/diamond",
+          "name": "mcbc:tools/pickax/diamond",
           "weight":5
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/pickax/stone",
+          "name": "mcbc:tools/pickax/stone",
           "weight":32
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/pickax/wooden",
+          "name": "mcbc:tools/pickax/wooden",
           "weight":20
         }
       ]

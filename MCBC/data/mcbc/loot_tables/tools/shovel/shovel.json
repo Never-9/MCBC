@@ -6,27 +6,27 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/shovel/iron",
+          "name": "mcbc:tools/shovel/iron",
           "weight":28
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/shovel/golden",
+          "name": "mcbc:tools/shovel/golden",
           "weight":15
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/shovel/diamond",
+          "name": "mcbc:tools/shovel/diamond",
           "weight":5
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/shovel/stone",
+          "name": "mcbc:tools/shovel/stone",
           "weight":32
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/shovel/wooden",
+          "name": "mcbc:tools/shovel/wooden",
           "weight":20
         }
       ]

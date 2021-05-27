@@ -6,12 +6,12 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/axe/axe",
+                    "name": "mcbc:weapons/axe/axe",
                     "weight": 9
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/sword/sword",
+                    "name": "mcbc:weapons/sword/sword",
                     "weight": 9
                 },
                 {
@@ -21,22 +21,22 @@
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/bow",
+                    "name": "mcbc:weapons/bow",
                     "weight": 9
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/crossbow",
+                    "name": "mcbc:weapons/crossbow",
                     "weight": 9
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/trident",
+                    "name": "mcbc:weapons/trident",
                     "weight": 9
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:weapons/arrow/arrow",
+                    "name": "mcbc:weapons/arrow/arrow",
                     "weight": 15
                 }
             ]

@@ -6,27 +6,27 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/boots/iron",
+                    "name": "mcbc:armours/boots/iron",
                     "weight":10             
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/boots/golden",
+                    "name": "mcbc:armours/boots/golden",
                     "weight":15                    
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/boots/diamond",
+                    "name": "mcbc:armours/boots/diamond",
                     "weight":1                    
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/boots/chainmail",
+                    "name": "mcbc:armours/boots/chainmail",
                     "weight":35                    
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/boots/leather",
+                    "name": "mcbc:armours/boots/leather",
                     "weight":39                   
                 }
             ]

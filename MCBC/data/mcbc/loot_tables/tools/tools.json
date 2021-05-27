@@ -6,32 +6,32 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/pickax/pickax",
+          "name": "mcbc:tools/pickax/pickax",
           "weight": 20
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/shovel/shovel",
+          "name": "mcbc:tools/shovel/shovel",
           "weight": 20
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/hoe/hoe",
+          "name": "mcbc:tools/hoe/hoe",
           "weight": 20
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/shear/shears",
+          "name": "mcbc:tools/shear/shears",
           "weight": 10
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/fishing_rod/fishing_rod",
+          "name": "mcbc:tools/fishing_rod/fishing_rod",
           "weight": 20
         },
         {
           "type": "minecraft:loot_table",
-          "name": "MCBC:tools/flint_and_steel/flint_and_steel",
+          "name": "mcbc:tools/flint_and_steel/flint_and_steel",
           "weight": 10
         }
       ]

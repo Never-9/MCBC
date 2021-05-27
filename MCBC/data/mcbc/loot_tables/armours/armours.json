@@ -6,22 +6,22 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/boots/boots",
+                    "name": "mcbc:armours/boots/boots",
                     "weight": 10
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/chestplate/chestplate",
+                    "name": "mcbc:armours/chestplate/chestplate",
                     "weight": 10
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/helmet/helmet",
+                    "name": "mcbc:armours/helmet/helmet",
                     "weight": 10
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "MCBC:armours/leggins/leggins",
+                    "name": "mcbc:armours/leggins/leggins",
                     "weight": 10
                 }
             ]
