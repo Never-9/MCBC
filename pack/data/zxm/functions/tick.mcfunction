@@ -1,1 +1,0 @@
-function zxm:death_check

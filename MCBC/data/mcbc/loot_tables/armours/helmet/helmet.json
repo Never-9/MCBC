@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:armours/helmet/iron",
+                    "weight":10             
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:armours/helmet/golden",
+                    "weight":15                    
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:armours/helmet/diamond",
+                    "weight":1                    
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:armours/helmet/chainmail",
+                    "weight":30                    
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:armours/helmet/leather",
+                    "weight":34                    
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:turtle_helmet",
+                    "weight": 10
+                }
+            ]
+        }
+    ]
+}

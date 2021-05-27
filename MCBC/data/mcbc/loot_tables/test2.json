@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:chest",
+    "pools":[
+        {
+            "rolls": 5,
+            "entries":[
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:props/props",
+                    "weight": 50
+                }     
+           ]
+        }
+        
+    ]
+    
+}

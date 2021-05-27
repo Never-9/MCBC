@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:weapons/sword/iron",
+                    "weight":28             
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:weapons/sword/golden",
+                    "weight":15                    
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:weapons/sword/diamond",
+                    "weight":5                    
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:weapons/sword/stone",
+                    "weight":32                    
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:weapons/sword/wooden",
+                    "weight":20                    
+                }
+            ]
+        }
+    ]
+}

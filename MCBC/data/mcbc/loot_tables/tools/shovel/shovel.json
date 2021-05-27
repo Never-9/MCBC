@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "MCBC:tools/shovel/iron",
+          "weight":28
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "MCBC:tools/shovel/golden",
+          "weight":15
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "MCBC:tools/shovel/diamond",
+          "weight":5
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "MCBC:tools/shovel/stone",
+          "weight":32
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "MCBC:tools/shovel/wooden",
+          "weight":20
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+function MCBC:death_check

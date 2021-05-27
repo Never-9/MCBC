@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:blocks/block/block",
+                    "weight": 20
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:blocks/material/material",
+                    "weight": 20
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:blocks/prop/prop",
+                    "weight": 10
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "MCBC:blocks/tool/tool",
+                    "weight": 10
+                }
+            ]
+        }
+    ]
+}
