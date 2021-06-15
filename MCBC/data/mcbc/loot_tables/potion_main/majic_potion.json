@@ -1,0 +1,120 @@
+{
+  "type": "minecraft:chest",
+  "pools":[
+    {
+      "rolls": 1,
+      "entries":[
+        {
+          "type":"minecraft:item",
+          "name":"minecraft:potion",
+          "weight": 10,
+          "functions":[
+            {
+              "function":"set_nbt",
+              "tag":"{CustomPotionEffects:[{Id:1,Duration:100,Amplifier:8}],display:{Name:'[\"敢不敢喝下去之速\"]'}}"
+            },
+            {
+              "function":"minecraft:set_count",
+              "count":{
+                "min":1,
+                "max":1
+              }
+            }
+          ]
+        },
+        {
+          "type":"minecraft:item",
+          "name":"minecraft:potion",
+          "weight": 10,
+          "functions":[
+            {
+              "function":"set_nbt",
+              "tag":"{CustomPotionEffects:[{Id:3,Duration:100,Amplifier:8}],display:{Name:'[\"敢不敢喝下去之急\"]'}}"
+            },
+            {
+              "function":"minecraft:set_count",
+              "count":{
+                "min":1,
+                "max":1
+              }
+            }
+          ]
+        },
+        {
+          "type":"minecraft:item",
+          "name":"minecraft:potion",
+          "weight": 10,
+          "functions":[
+            {
+              "function":"set_nbt",
+              "tag":"{CustomPotionEffects:[{Id:5,Duration:100,Amplifier:8}],display:{Name:'[\"敢不敢喝下去之力\"]'}}"
+            },
+            {
+              "function":"minecraft:set_count",
+              "count":{
+                "min":1,
+                "max":1
+              }
+            }
+          ]
+        },
+        {
+          "type":"minecraft:item",
+          "name":"minecraft:potion",
+          "weight": 10,
+          "functions":[
+            {
+              "function":"set_nbt",
+              "tag":"{CustomPotionEffects:[{Id:8,Duration:100,Amplifier:8}],display:{Name:'[\"敢不敢喝下去之跃\"]'}}"
+            },
+            {
+              "function":"minecraft:set_count",
+              "count":{
+                "min":1,
+                "max":1
+              }
+            }
+          ]
+        },
+        {
+          "type":"minecraft:item",
+          "name":"minecraft:potion",
+          "weight": 10,
+          "functions":[
+            {
+              "function":"set_nbt",
+              "tag":"{CustomPotionEffects:[{Id:10,Duration:100,Amplifier:8}],display:{Name:'[\"敢不敢喝下去之生\"]'}}"
+            },
+            {
+              "function":"minecraft:set_count",
+              "count":{
+                "min":1,
+                "max":1
+              }
+            }
+          ]
+        },
+        {
+          "type":"minecraft:item",
+          "name":"minecraft:potion",
+          "weight": 10,
+          "functions":[
+            {
+              "function":"set_nbt",
+              "tag":"{CustomPotionEffects:[{Id:22,Duration:100,Amplifier:8}],display:{Name:'[\"敢不敢喝下去之盾\"]'}}"
+            },
+            {
+              "function":"minecraft:set_count",
+              "count":{
+                "min":1,
+                "max":1
+              }
+            }
+          ]
+        }
+      ]
+    }
+
+  ]
+
+}
